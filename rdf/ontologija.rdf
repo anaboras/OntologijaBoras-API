@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://oziz.ffos.hr/aboras/ak-ontologija#"
+         xmlns:ns1="http://oziz.ffos.hr/tsw2/aboras/dodjela#">
+
+  <rdf:Description rdf:about="http://oziz.ffos.hr/tsw2/dodjela#1">
+    <rdf:type rdf:resource="http://oziz.ffos.hr/tsw2/aboras/dodjela#dodjela"/>
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pomrčina</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horor</ns1:zanr>
+  </rdf:Description>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#2">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U sebi</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Znanstvena fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#3">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Midnight Sun</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastična fikcija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#4">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Chemist</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Špijunska fikcija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#5">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Praskozorje</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ljubavni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#6">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mladi mjesec</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fikcija za mlade</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#7">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Life and Death: Twilight Reimagined</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vampirska književnost</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#8">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prom nights from hell</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paranormalna romansa</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#9">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kratki drugi život Bree Tanner: novela iz Pomrčine</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastična fikcija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#10">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Stephenie_Meyer"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nagrada_Astrid_Lindgren"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New moon: the graphic novel</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grafički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#11">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1973</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ja magarac</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fikcija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#12">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1970</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male priče o velikim slovima: Moja prva abeceda</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dječje pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#13">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1993</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pusa od Krampusa</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dječje pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#14">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zmajevi i vukodlaci: humoristične priče za djecu i mladež</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knjige za djecu </ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#15">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veseli zemljopis</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Knjige za djecu </ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#16">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nevidljiva Iva</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poezija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#17">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1977</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zeleni mravi</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poezija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#18">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1991</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ljubav za početnike</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#19">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1986</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bijesne gliste</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#20">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Zvonimir_Balog"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Alois_Mock"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sto najzanimanja</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poezija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#21">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sretni dani</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiktivni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#22">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zaljubljen do ušiju</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#23">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kafkin prijatelj</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiktivni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#24">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kako je tata osvojio mamu</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#25">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1991</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Svašta u mojoj glavi</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiktivni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#26">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Profesorica iz snova</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman za mlade</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#27">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1996</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pokušaj zaboraviti</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#28">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1989</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mali neobični ljudi: pripovijetke i priče</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beletristika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#29">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poncije Pilat</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiktivni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#30">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Miro_Gavran"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivan_Goran_Kovačić"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ljubavi Georgea Washingtona i druge drame</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#31">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Kamen mudraca</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#32">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Odaja tajni</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#33">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Zatočenik Azkabana</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#34">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Plameni Pehar</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#35">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Red feniksa</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#36">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Princ miješane krvi</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#37">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Potter i Darovi smrti (original:Harry Potter and the Deathly Hallows)</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastika</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#38">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dudov svilac</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Misterija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#39">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Karijera zla</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triler, misterija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#40">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Joanne_Jo_Rowling"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Agata"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prijevremeni izbori</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crni humor, tragikomedija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#41">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">San boraca u zoru</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#42">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1950</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#43">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1955</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naoružane ruže</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#44">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1955</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vesele zamke</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#45">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1956</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Prepelica</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#46">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1956</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lirika  o Slavoniji</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#47">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1957</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Povjerenje životu</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#48">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1960</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maksimir</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#49">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gdje priče rastu</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#50">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Grigor_Vitez"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Mato_Lovrak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1965</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zekina kuća</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pjesme</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#51">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1985</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ah, ludnica!</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#52">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O mamama sve najbolje</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#53">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nemam vremena</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#54">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Što mi se to događa?</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#55">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hoću i ja</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#56">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ideš mi na živce</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#57">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vidimo se na fejsu!</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#58">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Baš sam hepi!</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#59">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sitnice</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#60">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Sanja_Pilić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Nagrada_Vladimir_Nazor"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1954</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I što sad?</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#61">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sretna djeca</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#62">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julio i Romea</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#63">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Art krug</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#64">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dramatično</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#65">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Debela</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman za mlade</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#66">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bum Tomica</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Priče  za djecu</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#67">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tko je ubio pašteticu?</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman za djecu</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#68">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ne, hvala</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman za mlade</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#69">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dani plavih djevica</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#70">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Silvija_Šesto"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Naklada_Ljevak"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dnevnik jedne ljubavi</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#71">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1979</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Groteskne tragedije</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#72">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1993</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tri drame</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drama</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#73">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Utvare</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drame</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#74">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ptice nebeske</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#75">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kockanje sa sudbinom</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#76">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gorgone</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#77">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katedrala</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#78">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Astaroth</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#79">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Država Božja</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#80">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Ivo_Brešan"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pulitzerova_nagrada"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spletke</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#81">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1972</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lađa od vode</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zbirke pripovijesti</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#82">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1976</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dobri duh Zagreba</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zbirke pripovijesti</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#83">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tko je to učinio?</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zbirke pripovijesti</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#84">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plava ruža</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#85">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1978</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stroj za maglu</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#86">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1992</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rupa na nebu</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#87">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melem</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fantastična fikcija</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#88">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krvnik u kući</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#89">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Devet spomenika</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#90">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Pavao_Pavličić"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Kiklop"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1946</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brda se miču</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#91">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rani dani</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ispovjedna proza</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#92">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trava i korov</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ispovjedna proza</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#93">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mrtva priroda</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ispovjedna proza</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#94">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1982</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ruski rulet</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#95">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gorka čokolada</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#96">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kuća u kojoj stanuje vrag</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#97">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bijesne lisice</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#98">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Propali kongres</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiktivni roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#99">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1991</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dublja strana jezera</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+  <ns1:dodjela rdf:about="http://oziz.ffos.hr/tsw2/dodjela#100">
+    <ns0:Autor rdf:resource="http://oziz.ffos.hr/boras-djurdjevic/akdk-ontologija#Goran_Tribuson"/>
+    <ns0:DobioNagradu rdf:resource="http://oziz.ffos.hr/aboras/ak-ontologija#Nestlé_smarties_book_prize_for_9_to_11_years"/>
+    <ns0:RodjenJe rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</ns0:RodjenJe>
+    <ns1:vrijeme_objavljivanja_knjige rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1993</ns1:vrijeme_objavljivanja_knjige>
+    <ns1:nagradjenaKnjiga rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanatorij</ns1:nagradjenaKnjiga>
+    <ns1:zanr rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriminalistički roman</ns1:zanr>
+  </ns1:dodjela>
+
+</rdf:RDF>

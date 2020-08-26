@@ -1,1 +1,1 @@
-# OntologijaBoras-API
+REST API za P3
